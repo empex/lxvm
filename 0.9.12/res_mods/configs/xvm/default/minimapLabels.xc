@@ -1,10 +1,8 @@
 ﻿/**
  * Minimap labels.
- * Надписи на миникарте.
- */
+*/
 {
   // Textfields for units on minimap.
-  // Текстовые поля юнитов на миникарте.
   // TODO: documentation
   //  {
   //    Если не указаны "ally", "squadman", "player", "enemy", "teamKiller", то они не используются.
@@ -21,9 +19,8 @@
   "labels": {
     "enabled": true,
     // Format set
-    // Набор форматов
     "formats": [
-      //${ "minimapLabelsTemplates.xc":"def.vtypeSpotted" },
+      ${ "minimapLabelsTemplates.xc":"def.vtypeSpotted" },
       ${ "minimapLabelsTemplates.xc":"def.vehicleSpotted" },
       ${ "minimapLabelsTemplates.xc":"def.nickSpotted" },
       ${ "minimapLabelsTemplates.xc":"def.vtypeLost" },
