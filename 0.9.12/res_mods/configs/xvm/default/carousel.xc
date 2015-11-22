@@ -1,23 +1,18 @@
 ﻿/**
  * Parameters for tank carousel
- * Параметры карусели танков
  */
 {
   "carousel": {
     // false - Disable customizable carousel.
-    // false - Отключить настраиваемую карусель.
     "enabled": true,
     // Scale of carousel cells.
-    // Масштаб ячеек карусели.
     "zoom": 1,
     // Number of rows at carousel.
-    // Количество рядов карусели.
-    "rows": 1,
-    // Spacing between carousel cells.
-    // Отступ между ячейками карусели.
+    "rows": 3,
+    // Spacing between carousel cells..
     "padding": {
-        "horizontal": 10,   // по горизонтали
-        "vertical": 2       // по вертикали
+        "horizontal": 10,   
+        "vertical": 2      
     },
     // Background transparency (default - 60)
     // Прозрачность подложки (по умолчанию - 60)
