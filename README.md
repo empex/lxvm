@@ -1,8 +1,8 @@
 # lxvm - LeanXVM
 Just a collection of mods thrown together
-Updated for WoT 0.9.12
+Updated for WoT 0.9.13
 
-### XVM 6.1.6
+### XVM 6.2.0
 - Default config, some changes.
 - Carousel enabled: 3 rows
 - Loading screen, Statistics screen (tab ingame) and player panels (the large ones)
