@@ -2,7 +2,7 @@
 Just a collection of mods thrown together
 Updated for WoT 0.9.14
 
-### XVM 6.2.0
+### XVM 6.2.1
 - Default config, some changes.
 - Carousel enabled: 4 rows
 - Loading screen, Statistics screen (tab ingame) and player panels (the large ones)
