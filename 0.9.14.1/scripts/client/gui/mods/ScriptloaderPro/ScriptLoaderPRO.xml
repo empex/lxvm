@@ -1,0 +1,44 @@
+<ScriptLoaderPRO.xml>
+<!-- ScriptLoader PRO configuration (c) Budyx69 2016
+=============================================================================================
+					ScriptLoader PRO Settings
+=============================================================================================
+
+TestMode                = if set to "True" the folder .\scripts\client\test will
+						  be set as actual script folder [True/False]
+DebugMode               = if set to "True" detailed informations will be written in logfile.
+						  Set to: [True/False]
+SystemMessage           = Activate or deactivate ingame System Messages [True/False]								  
+							
+PLEASE DELETE THE FILE (.\scripts\client\CameraNode.pyc)
+THIS WILL TERMINATE Script Loader PRO.
+=============================================================================================
+
+=============================================================================================
+TestMode (Tags: [True/False])
+=============================================================================================
+!-->   
+  <TestMode>False</TestMode>
+ <!--
+=============================================================================================
+DebugMode (Tags: [True/False])
+=============================================================================================
+!-->   
+  <DebugMode>False</DebugMode>
+ <!--
+=============================================================================================
+SystemMessage (Tags: [True/False])
+=============================================================================================
+!-->   
+  <SystemMessage>False</SystemMessage>
+ <!--
+=============================================================================================
+Delete Cameranode.pyc automatic in scripts/client/ (Tags: [True/False])
+=============================================================================================
+!-->   
+  <cameranode>True</cameranode>
+ <!--
+=============================================================================================
+!-->
+   
+</ScriptLoaderPRO.xml>
