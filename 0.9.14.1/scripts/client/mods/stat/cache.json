@@ -1,0 +1,51 @@
+{
+    "date": "2016-04-05",
+    "players": {
+        "empex": {
+            "battles": [
+                {
+                    "assist": 339,
+                    "autoEquipCost": 0,
+                    "autoLoadCost": 2805,
+                    "autoRepairCost": 6463,
+                    "battleTier": 9,
+                    "cap": 0,
+                    "dailyXPFactor": 2,
+                    "damage": 1250,
+                    "damageAssistedRadio": 81,
+                    "damageAssistedTrack": 258,
+                    "damageRec": 850,
+                    "deathsCount": 1,
+                    "def": 0,
+                    "eventTmenXP": 0,
+                    "fortResource": 0,
+                    "frag": 2,
+                    "freeXP": 118,
+                    "grossCredits": 25184,
+                    "grossGold": 0,
+                    "hits": 11,
+                    "idNum": 11041,
+                    "map": "73_asia_korea",
+                    "mileage": 1133,
+                    "netCredits": 15916,
+                    "netGold": -22,
+                    "originalFreeXP": 39,
+                    "originalPremXP": 1195.0,
+                    "originalXP": 797,
+                    "pierced": 6,
+                    "place": 5,
+                    "potDamageRec": 1020,
+                    "result": 1,
+                    "service": 9268,
+                    "shots": 13,
+                    "spot": 2,
+                    "tier": 7,
+                    "tmenXP": 2392,
+                    "vehicle": "usa-T25_2",
+                    "xp": 2392
+                }
+            ]
+        }
+    },
+    "version": 8
+}
